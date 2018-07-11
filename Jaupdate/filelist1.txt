@@ -1,0 +1,17 @@
+﻿bot/default/bot.conf	c4d6349538a52b4cc25a20ac56968f08
+bot/original/bot.conf	02981d747d3e13103d118b1c9b1662ca
+cdb/cards.cdb	c61e1191a764ac0849759b814348b4fa
+cdb/Fluorohydride/cards.cdb	e3ecd184d38779d73f5f9bd6d5d8d20f
+cdb/Live2017Links/cards.cdb	c61e1191a764ac0849759b814348b4fa
+config/strings.conf	fe1c31fa8ffe56fdab343f01bba24632
+config/system.conf	ef7d45dbaf4e47ac57beddce6584aa22
+config/translation.conf	ced318256589cf1b57a1657755a4a393
+config/Fluorohydride/strings.conf	b0e792aaf999a86d7b4ec3ca1ecc8906
+config/Fluorohydride/translation.conf	ced318256589cf1b57a1657755a4a393
+config/Live2017Links/strings.conf	fe1c31fa8ffe56fdab343f01bba24632
+config/Live2017Links/system.conf	ef7d45dbaf4e47ac57beddce6584aa22
+config/Live2017Links/translation.conf	ced318256589cf1b57a1657755a4a393
+deck/CYHO.ydk	5e0921bc03bf4ee26c3bc581421a58e8
+deck/SD34.ydk	44c502cf0b287c13eb3399a7dcf562c9
+deck/SOFU.ydk	a5418dd081759ef5943ea9056382506e
+deck/V-Jump.ydk	08ab33e1fa8cc741f38373aa1348ffc7
