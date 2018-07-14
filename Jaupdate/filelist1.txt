@@ -1,8 +1,8 @@
 ﻿bot/default/bot.conf	c4d6349538a52b4cc25a20ac56968f08
 bot/original/bot.conf	02981d747d3e13103d118b1c9b1662ca
-cdb/cards.cdb	6a34b77917c35f376f005fdf66c88c62
+cdb/cards.cdb	315c367a7e7aaa56fe4914c9b6500065
 cdb/Fluorohydride/cards.cdb	b7a1d72543eaac3faa3a5a96dff0002c
-cdb/Live2017Links/cards.cdb	6a34b77917c35f376f005fdf66c88c62
+cdb/Live2017Links/cards.cdb	315c367a7e7aaa56fe4914c9b6500065
 config/strings.conf	69392884ec1e18faf7112f5ee25a27b3
 config/system.conf	ef7d45dbaf4e47ac57beddce6584aa22
 config/translation.conf	ced318256589cf1b57a1657755a4a393
@@ -16,6 +16,6 @@ deck/SD34.ydk	44c502cf0b287c13eb3399a7dcf562c9
 deck/SOFU.ydk	9fd4e2758cdb27ca4b4b3ecef55be720
 deck/V-Jump.ydk	08ab33e1fa8cc741f38373aa1348ffc7
 Jaupdate/delete.txt	bcae307f6039207f11b4daa83f17c0ec
-Jaupdate/filelist1.txt	f88fcc0b034913f71f086990647ae212
+Jaupdate/filelist1.txt	0053908510c7fceba00f2a3dd565d135
 Jaupdate/rename.txt	c509c33cdee4e36b1cfaaed4315f2886
-Jaupdate/version1.txt	a6246b242da2d92d3c7dcd013021c64d
+Jaupdate/version1.txt	9fc9fb7c64785d567522a1ad70b8a51a
